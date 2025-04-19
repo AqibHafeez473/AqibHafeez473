@@ -20,5 +20,7 @@ I'm always looking to expand my knowledge in the DevOps space and am currently f
 
 Feel free to connect with me if you have any questions or collaboration opportunities!
 
+
 ---
-Aqib Hafeez | DevOps Engineer
+Aqib Hafeez | DevOps Engineer  
+Email: [aqibhafeez422@gmail.com](mailto:aqibhafeez422@gmail.com)
