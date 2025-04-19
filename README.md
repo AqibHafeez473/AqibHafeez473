@@ -1,6 +1,6 @@
 # Aqib Hafeez - DevOps Engineer
 
-Hi there! I'm Aqib Hafeez, a passionate DevOps Engineer with 2 years of hands-on experience in building and maintaining scalable infrastructure. I specialize in implementing CI/CD pipelines, automating deployments, and optimizing cloud environments.
+ DevOps Engineer with 2 years of hands-on experience in building and maintaining scalable infrastructure. I specialize in implementing CI/CD pipelines, automating deployments, and optimizing cloud environments.
 
 ## 🚀 Skills & Technologies
 
