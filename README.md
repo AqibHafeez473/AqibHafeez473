@@ -1,7 +1,7 @@
 # 🚀 Aqib Hafeez - DevOps Engineer
 
 ## 🌐 Portfolio
-🔗 Portfolio: https://your-portfolio-link.com
+🔗 Portfolio Blog: https://hashnode.com/draft/656b61d32532984d979800b6
 
 ---
 
