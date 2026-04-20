@@ -28,6 +28,13 @@ DevOps Engineer with 2 years of experience in designing scalable infrastructure,
 - Automated build & deployment workflow  
 
 ---
+ ### 3️⃣ Ubuntu Cleanup Script Tool
+
+🔗 https://github.com/AqibHafeez473/ubuntu-cleanup-script-tool.git
+
+Automated cleanup script for Ubuntu systems
+Removes unused packages, cache, and logs
+Helps optimize system performance and free up disk space
 
 #### 3️⃣ GitHub Actions CI/CD Demo
 🔗 https://github.com/AqibHafeez473/CICD-Github-action  
