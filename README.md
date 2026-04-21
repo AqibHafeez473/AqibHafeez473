@@ -6,7 +6,7 @@
 ---
 
 ## 👨‍💻 About Me
-DevOps Engineer with 2 years of experience in designing scalable infrastructure, CI/CD pipelines, and cloud automation. I focus on improving deployment speed, system reliability, and automation workflows.
+DevOps Engineer with  years of experience in designing scalable infrastructure, CI/CD pipelines, and cloud automation. I focus on improving deployment speed, system reliability, and automation workflows.
 
 ---
 
