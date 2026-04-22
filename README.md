@@ -81,13 +81,14 @@ Helps optimize system performance and free up disk space
 Provides full visibility into system health with dashboards, alerts, and log monitoring in a single unified stack.
 ## 🛠️ Skills & Technologies
 
-- ☁️ AWS (ECS, ECR, RDS, IAM basics)  
+- ☁️ AWS cloud
 - 🐳 Docker & Containerization  
 - ⚙️ CI/CD (GitHub Actions, Jenkins)  
 - 📦 Terraform (Infrastructure as Code)  
 - 🐧 Linux & Shell Scripting  
 - 🐍 Python / .NET / Django basics  
-- 📊 Monitoring (Prometheus, Grafana)
+- 📊 Monitoring (Prometheus, Grafana,loki ,blackbox,cadvsior)
+- bash
 
 ---
 
