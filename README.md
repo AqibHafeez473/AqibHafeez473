@@ -75,7 +75,10 @@ Helps optimize system performance and free up disk space
 - Secure cloud database provisioning  
 
 ---
-
+### Real-Time Infrastructure Monitoring & Alerting Stack
+🔗 https://github.com/AqibHafeez473/real-time-infra-monitoring
+- Production-style real-time infrastructure monitoring system built with Prometheus, Grafana, and Alertmanager.
+Provides full visibility into system health with dashboards, alerts, and log monitoring in a single unified stack.
 ## 🛠️ Skills & Technologies
 
 - ☁️ AWS (ECS, ECR, RDS, IAM basics)  
